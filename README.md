@@ -1,7 +1,16 @@
-## What I learn here
-- Git basics
-- GitHub workflow
+## \## What I learn here
 
-## Status
-In progress ??
-"- Repositories, commits ^& push"
+## \- Git basics
+
+## \- GitHub workflow
+
+## \- Repositories, commits \& push
+
+## 
+
+## \## Status
+
+## In progress 🚀
+
+
+
